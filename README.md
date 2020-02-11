@@ -7,3 +7,13 @@ The task was to implement an A* solver for the puzzle game Rush Hour, by extendi
 partial java implementation that was provided.
 
 I got 100% for this piece of work.
+
+________
+
+To run:
+
+1. Compile all files:
+javac */*.java
+
+2. Run RushHour, specifying game encoding to use, e.g. random1.txt:
+java -Xmx1g rushhour/RushHour game_encodings/random1.txt
