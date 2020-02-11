@@ -6,9 +6,6 @@ This was a piece of coursework for my year 3 Artificial Intelligence module.
 The task was to implement an A* solver for the puzzle game Rush Hour, by extending the
 partial java implementation that was provided.
 
-I got 100% for this piece of work.
-
-
 **Rush Hour**
 
 Rush Hour is a puzzle game in which the player needs to move a number of cars to allow a 
