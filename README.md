@@ -47,8 +47,10 @@ ________
 **To run:**
 
 1. Compile all files:
-javac */*.java
 
-2. Run RushHour, specifying game encoding to use, e.g. random1.txt:
-java -Xmx1g rushhour/RushHour game_encodings/random1.txt
+       javac */*.java
+
+2. Run RushHour, specifying game encoding to use, e.g. for random1.txt:
+
+       java -Xmx1g rushhour/RushHour game_encodings/random1.txt
 
